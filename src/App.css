@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  text-align: center;
+}
+
+.custom-checkbox .form-check-input:checked {
+  background-color: #EF9B0F; 
+  border-color: #EF9B0F; 
+}
+
+.custom-progress-bar .progress-bar {
+  background-color: #EF9B0F;
+  color: white;
+}
